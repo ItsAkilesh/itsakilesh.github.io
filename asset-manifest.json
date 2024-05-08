@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d603a494.chunk.css",
-    "main.js": "/static/js/main.fcc0a901.chunk.js",
-    "main.js.map": "/static/js/main.fcc0a901.chunk.js.map",
+    "main.js": "/static/js/main.5e53edf7.chunk.js",
+    "main.js.map": "/static/js/main.5e53edf7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3cd8cdc2.js",
     "runtime-main.js.map": "/static/js/runtime-main.3cd8cdc2.js.map",
     "static/js/2.ee039103.chunk.js": "/static/js/2.ee039103.chunk.js",
     "static/js/2.ee039103.chunk.js.map": "/static/js/2.ee039103.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cc50a3bdb0f416478f307a81073faa61.js": "/precache-manifest.cc50a3bdb0f416478f307a81073faa61.js",
+    "precache-manifest.cdfba2743e67dceeb7c54e8eed639881.js": "/precache-manifest.cdfba2743e67dceeb7c54e8eed639881.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d603a494.chunk.css.map": "/static/css/main.d603a494.chunk.css.map",
     "static/media/AA.jpg": "/static/media/AA.72154e22.jpg",
@@ -30,8 +30,8 @@
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/face (Small).png": "/static/media/face (Small).0539bd1b.png",
     "static/media/face.png": "/static/media/face.829d4331.png",
+    "static/media/face_small.png": "/static/media/face_small.0539bd1b.png",
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.3cd8cdc2.js",
     "static/js/2.ee039103.chunk.js",
     "static/css/main.d603a494.chunk.css",
-    "static/js/main.fcc0a901.chunk.js"
+    "static/js/main.5e53edf7.chunk.js"
   ]
 }
