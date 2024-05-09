@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cc87fbf63053c613fc351fadb93f500",
+    "revision": "4da07a9f7c128e53c7ba630b4605d24b",
     "url": "/index.html"
   },
   {
-    "revision": "c197c72602d3ab22007b",
-    "url": "/static/css/main.d603a494.chunk.css"
+    "revision": "96924de4efc9c0f2f329",
+    "url": "/static/css/main.b7f58dfe.chunk.css"
   },
   {
     "revision": "7f747dd9b5083ca73260",
     "url": "/static/js/2.ee039103.chunk.js"
   },
   {
-    "revision": "c197c72602d3ab22007b",
-    "url": "/static/js/main.5e53edf7.chunk.js"
+    "revision": "96924de4efc9c0f2f329",
+    "url": "/static/js/main.ab8f9055.chunk.js"
   },
   {
     "revision": "25b0c2e1b32b1395ae94",
@@ -32,32 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "4457817ac2b9993c65e81aa05828fe9c",
-    "url": "/static/media/GoogleSans-Bold.4457817a.ttf"
-  },
-  {
-    "revision": "90773b6158663ab0fe78b32680733677",
-    "url": "/static/media/GoogleSans-BoldItalic.90773b61.ttf"
-  },
-  {
-    "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
-    "url": "/static/media/GoogleSans-Italic.0ecddcde.ttf"
-  },
-  {
-    "revision": "8d57e4014b18edef070d285746485115",
-    "url": "/static/media/GoogleSans-Medium.8d57e401.ttf"
-  },
-  {
-    "revision": "8fd3737925e83c87d78a13700ccf9a62",
-    "url": "/static/media/GoogleSans-MediumItalic.8fd37379.ttf"
-  },
-  {
-    "revision": "b5c77a6aed75cdad9489effd0d5ea411",
-    "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
-  },
-  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "94348d7ee70c258261a757b66596c4f9",
+    "url": "/static/media/SF-Pro-Display-Bold.94348d7e.otf"
+  },
+  {
+    "revision": "ec0cae4b95509fe27e64b2dff8fef3ef",
+    "url": "/static/media/SF-Pro-Display-BoldItalic.ec0cae4b.otf"
+  },
+  {
+    "revision": "84d3637759a89aa1b59df2a828544511",
+    "url": "/static/media/SF-Pro-Display-Medium.84d36377.otf"
+  },
+  {
+    "revision": "557592b0324385955c74fb022ace5972",
+    "url": "/static/media/SF-Pro-Display-MediumItalic.557592b0.otf"
+  },
+  {
+    "revision": "f4245a5167ad609c4ba2d0850d553bd2",
+    "url": "/static/media/SF-Pro-Display-Regular.f4245a51.otf"
+  },
+  {
+    "revision": "4fdd6f9c08dfaf61a984a914a1b6bda4",
+    "url": "/static/media/SF-Pro-Display-RegularItalic.4fdd6f9c.otf"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
