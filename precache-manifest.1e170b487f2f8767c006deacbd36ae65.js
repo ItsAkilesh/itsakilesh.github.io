@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afde041732590342d2da69fdf82890af",
+    "revision": "0cf30dcefadb6f6194352ca52e0dd2dd",
     "url": "/index.html"
   },
   {
-    "revision": "b7495d67963e3e9d01f7",
+    "revision": "5477fd65b8e42092a879",
     "url": "/static/css/main.78a9b5cb.chunk.css"
   },
   {
-    "revision": "b8e3969f2d76d5ffa3c3",
-    "url": "/static/js/2.960d5045.chunk.js"
+    "revision": "81014ce3692d1a965eef",
+    "url": "/static/js/2.70aafd99.chunk.js"
   },
   {
-    "revision": "b7495d67963e3e9d01f7",
-    "url": "/static/js/main.f5c80f4c.chunk.js"
+    "revision": "5477fd65b8e42092a879",
+    "url": "/static/js/main.8969fca3.chunk.js"
   },
   {
     "revision": "25b0c2e1b32b1395ae94",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4fdd6f9c08dfaf61a984a914a1b6bda4",
     "url": "/static/media/SF-Pro-Display-RegularItalic.4fdd6f9c.otf"
+  },
+  {
+    "revision": "db75a28b5768ddad20e0153dd5a95ebc",
+    "url": "/static/media/Vigilnz_logo.db75a28b.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -220,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jsFramework.5b4a6449.svg"
   },
   {
+    "revision": "49d67591eb1093edf8ab7b61d7c7c41d",
+    "url": "/static/media/learningedge.49d67591.png"
+  },
+  {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "/static/media/legato_logo.c597fbde.png"
   },
@@ -262,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "c8e7b3bd0e6f24f818e77aceeebe6c85",
+    "url": "/static/media/uspto.c8e7b3bd.jpg"
   },
   {
     "revision": "1f0b8f92c0fc74d6b414741335ab191f",
