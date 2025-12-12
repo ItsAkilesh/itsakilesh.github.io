@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cf30dcefadb6f6194352ca52e0dd2dd",
+    "revision": "56264f1da456001dee5b3c8d39efed8b",
     "url": "/index.html"
   },
   {
-    "revision": "5477fd65b8e42092a879",
+    "revision": "985f1a4a7e808d35dcc8",
     "url": "/static/css/main.78a9b5cb.chunk.css"
   },
   {
-    "revision": "81014ce3692d1a965eef",
-    "url": "/static/js/2.70aafd99.chunk.js"
+    "revision": "99c19e86a3ef54e3761e",
+    "url": "/static/js/2.1dbc4284.chunk.js"
   },
   {
-    "revision": "5477fd65b8e42092a879",
-    "url": "/static/js/main.8969fca3.chunk.js"
+    "revision": "985f1a4a7e808d35dcc8",
+    "url": "/static/js/main.bda5ff96.chunk.js"
   },
   {
     "revision": "25b0c2e1b32b1395ae94",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SF-Pro-Display-RegularItalic.4fdd6f9c.otf"
   },
   {
-    "revision": "db75a28b5768ddad20e0153dd5a95ebc",
-    "url": "/static/media/Vigilnz_logo.db75a28b.png"
+    "revision": "c0dc97c257c616c866d9b5b232fea60b",
+    "url": "/static/media/Vigilnz_logo.c0dc97c2.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
