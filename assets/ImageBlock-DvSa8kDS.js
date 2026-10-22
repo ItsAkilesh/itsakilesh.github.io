@@ -1,1 +1,0 @@
-import{j as s,a as i,i as e}from"./index-CAmpMWse.js";function r({block:a}){return s.jsxs("figure",{className:i.figure,children:[s.jsx("img",{src:e(a.src),alt:a.alt,loading:"lazy"}),a.caption&&s.jsx("figcaption",{className:"muted",children:a.caption})]})}export{r as default};

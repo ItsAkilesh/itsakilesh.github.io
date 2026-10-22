@@ -1,1 +1,0 @@
-import{j as e,a as t}from"./index-CAmpMWse.js";import{M as a}from"./Markdown-CRI1iZID.js";const r=2;function o({block:s}){return e.jsxs("div",{className:t.prose,children:[s.heading&&e.jsx("h2",{className:"section-title",children:s.heading}),e.jsx(a,{source:s.body,headingOffset:r})]})}export{o as default};
